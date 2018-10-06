@@ -7,6 +7,12 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text>Welcome to Basketball!</Text>
 
+        <Button underlayColor="red"
+          onPress={() => {
+            Alert.alert('You tapped the button!');
+          }}
+          title="Join a game!"
+        />
       </View>
     );
   }

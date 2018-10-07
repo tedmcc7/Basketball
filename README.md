@@ -1,1 +1,1 @@
-this is a trash application
+Pickup Sports is a fantastic application.
